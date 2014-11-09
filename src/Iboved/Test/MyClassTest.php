@@ -1,6 +1,7 @@
 <?php
 
 namespace Iboved\Test;
+require_once '../../../vendor/autoload.php';
 
 use PHPUnit_Framework_TestCase;
 use Iboved\MyClass;
