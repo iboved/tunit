@@ -1,5 +1,7 @@
 {
     "require-dev": {
+        "symfony/http-foundation": "2.6.*@dev",
+        "phroute/phroute": "1.*",
         "phpunit/phpunit": "4.3.*"
     },
     "autoload": {
